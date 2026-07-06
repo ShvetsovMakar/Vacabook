@@ -154,26 +154,6 @@ Represents a blog post with the following attributes:
 - SQL queries use string formatting (vulnerable to SQL injection - use parameterized queries)
 - Secret key is hardcoded (should use environment variables)
 
-### Future Improvements
-
-- Implement proper password hashing
-- Add input validation and sanitization
-- Improve error handling and user feedback
-- Add following/friendship features
-- Implement post comments and likes
-- Add image upload support
-- Implement search functionality
-- Add post editing and deletion capabilities
-- Create admin panel
-
-## License
-
-This project is created for Yandex Lyceum educational purposes.
-
-## Author
-
-**ShvetsovMakar** - [GitHub Profile](https://github.com/ShvetsovMakar)
-
 ## Contributing
 
 This is an educational project. Contributions and improvements are welcome! Feel free to submit pull requests or open issues for bugs and feature requests.
